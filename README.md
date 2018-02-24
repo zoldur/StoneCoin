@@ -34,8 +34,6 @@ Alias Address Privkey TxHash Output_index
 11. If you are not able to see your **Masternode**, try to close and open your desktop wallet.  
 
 ***
-
-
 ## Usage:  
 
 For security reasons **StoneCoin** is installed under **stonecoin** user, hence you need to **su - stonecoin** before checking:    
@@ -57,10 +55,9 @@ systemctl is-enabled stonecoin #To check whetether Stone service is enabled on b
 ```  
 
 ***
+## Donations:  
 
-  
-Any donation is highly appreciated.
-
+Any donation is highly appreciated.  
 
 **BTC**: 1BzeQ12m4zYaQKqysGNVbQv1taN7qgS8gY  
 **ETH**: 0x39d10fe57611c564abc255ffd7e984dc97e9bd6d  
